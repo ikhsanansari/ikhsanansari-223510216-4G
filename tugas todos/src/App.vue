@@ -214,6 +214,6 @@ export default {
 }
 
 .delete-button:hover {
-  background-color: #b22222; /* Warna merah coklat yang lebih gelap */
+  background-color: #b22222; /* Warna merah coklat yang lebih gelap ghhhg */
 }
 </style>
